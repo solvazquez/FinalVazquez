@@ -1,0 +1,18 @@
+.imgCarrito {
+    width: 4rem;
+}
+
+.itemsIndicador {
+    background-color: #E48D7A;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 2px;
+    cursor: pointer;
+    border-radius: 60%;
+    vertical-align: 18px;
+}

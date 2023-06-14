@@ -1,0 +1,115 @@
+.miBtn {
+    background-color: #1d345d;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 60%;
+}
+
+.miBtn2 {
+    background-color: #1D345D;
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+    width: 9rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.miBtn2:hover{
+    background-color:#E48D7A ;
+}
+
+.btnEliminar{
+    background-color: #9D1F1F;
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+    width: 8rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.miBtn3 {
+    background-color: #4F7942;
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+    width: 9rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.contador{
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 400px;
+    margin: 5px;
+}
+
+.nombreLibro{
+    color: #1D345D;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+    margin-top: 15px !important;
+}
+
+.nombreAutor{
+    font-weight: 400;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 20px !important;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+.textoSinopsis{
+    background-color: #e2cba2;
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+    width: auto;
+    border-radius: 15px;
+    border: none;
+    margin: 0px 40px 40px 40px;
+    padding: 20px;
+    margin-top: 0px !important;
+}
+
+.sinopsis{
+    font-size: 1.5rem !important ; 
+    color: #1D345D;
+    font-weight: bolder;
+    margin-bottom: none !important;
+}
+
+.total{
+    background-color: #e2cba2;
+    margin-top: 5px;
+    border-radius: 10px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding: 1px;
+    margin-left: 5px;
+}

@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    background-color: #1d345d;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
+    border-top: solid 20px #e2cba2;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    padding: 1rem;
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+
+}
+
+.imgLogo {
+    width: 30rem;
+    margin: 10px;
+}
+
+.categoria{
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+    font-family: "Sofia", sans-serif;
+}
